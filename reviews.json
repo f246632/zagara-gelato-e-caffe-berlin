@@ -1,0 +1,33 @@
+{
+  "google_rating": "4.8/5",
+  "total_reviews": "200+",
+  "reviews": [
+    {
+      "author": "Food Enthusiast",
+      "rating": 5,
+      "text": "The gelato here is phenomenal! Unique and special flavors that you won't find anywhere else. The pistachio and hazelnut are divine, and I loved the African dark chocolate with beetroot - so creative!",
+      "date": "2024"
+    },
+    {
+      "author": "Berlin Local",
+      "rating": 5,
+      "text": "Homemade ice cream that tastes incredible, and the prices are very affordable. The shop has such a charming, colorful atmosphere with vibrant furniture and plants. Staff is super friendly too!",
+      "date": "2024"
+    },
+    {
+      "author": "Italian Food Lover",
+      "rating": 5,
+      "text": "Perfect place for an affogato! The coffee is excellent and pairs beautifully with their artisanal gelato. The focaccia and breakfast ice cream sandwiches with brioche from Sironi are also delicious. Love the organic ricotta with candied lemon!",
+      "date": "2024"
+    }
+  ],
+  "highlights": [
+    "Artisanal homemade gelato",
+    "Unique and creative flavors",
+    "Many vegan and gluten-free options",
+    "Excellent coffee",
+    "Charming colorful atmosphere",
+    "Friendly staff",
+    "Affordable prices (2€ - 8€)"
+  ]
+}

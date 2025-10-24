@@ -1,0 +1,77 @@
+{
+  "gelato_flavors": [
+    {
+      "name": "Pistacchio",
+      "name_en": "Pistachio",
+      "category": "Classic",
+      "vegan": false,
+      "gluten_free": true
+    },
+    {
+      "name": "Nocciola",
+      "name_en": "Hazelnut",
+      "category": "Classic",
+      "vegan": false,
+      "gluten_free": true
+    },
+    {
+      "name": "Cioccolato Africano con Barbabietola",
+      "name_en": "African Dark Chocolate with Beetroot",
+      "category": "Specialty",
+      "vegan": true,
+      "gluten_free": true
+    },
+    {
+      "name": "Ricotta Biologica con Limone Candito",
+      "name_en": "Organic Ricotta with Candied Lemon",
+      "category": "Specialty",
+      "vegan": false,
+      "gluten_free": true
+    }
+  ],
+  "beverages": [
+    {
+      "name": "Espresso",
+      "price": "2.50€",
+      "description": "Traditional Italian espresso"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "3.50€",
+      "description": "Classic cappuccino with steamed milk"
+    },
+    {
+      "name": "Affogato",
+      "price": "5.50€",
+      "description": "Espresso poured over gelato"
+    },
+    {
+      "name": "Latte Macchiato",
+      "price": "4.00€",
+      "description": "Layered espresso with steamed milk"
+    }
+  ],
+  "food": [
+    {
+      "name": "Focaccia",
+      "price": "4.50€",
+      "description": "Fresh Italian focaccia, daily varieties"
+    },
+    {
+      "name": "Brioche con Gelato",
+      "price": "6.00€",
+      "description": "Breakfast ice cream sandwich with Sironi brioche"
+    },
+    {
+      "name": "Torta del Giorno",
+      "price": "4.00€",
+      "description": "Cake of the day, changing varieties"
+    }
+  ],
+  "price_range": "2€ - 8€",
+  "dietary_options": [
+    "Vegan gelato options",
+    "Gluten-free options",
+    "Organic ingredients"
+  ]
+}
